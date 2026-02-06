@@ -30,3 +30,4 @@ From the project folder:
 ```bash
 npx ng build --prod
 ```
+practice attribute & structural directive
